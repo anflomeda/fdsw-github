@@ -21,6 +21,12 @@ body {
 }
 
 /* Contacto */
+#Contacto{
+  background-image:url("../img/bg-contac.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
 
 #Contacto form label {
   font-weight: 700;
